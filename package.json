@@ -3,8 +3,6 @@
       "api:install": "cd expressapp && npm install .",
       "api:build": "cd expressapp && npm run build",
       "api:test": "cd expressapp && npm run jasmine",
-      "api:start": "cd expressapp && npm run dev",
-      "api:deploy": "cd expressapp && npm run deploy",
-      "deploy": "npm run api:deploy"
+      "api:start": "cd expressapp && npm run dev"
   }
 }
